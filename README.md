@@ -1,4 +1,4 @@
-# Noncompliant-Records---Energy-Benchmarking
+# -EnergyBenchmarking-NoncompliantRecords
 
 This work applies a methodology to improve data integrity and quality of benchmark data, applying the DataIQ tool developed for the New York City benchmark program and the 9-point Data Review developed by Washington DC’s benchmark program. Kansas City’s process merges the two tools to enable a single data integrity assessment process. The outcome of the assessment will be identification of data inaccuracies, and data cleaning and preparation for statistical analysis. Data accuracy refers to correctness of the values, such as missing or incorrect values. This is important because inaccurate data undermines statistical analyses, misrepresents the population sample, and can lead to false inferences.
 
